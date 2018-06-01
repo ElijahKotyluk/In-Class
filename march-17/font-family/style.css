@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+    font-size: 24x;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: blueviolet
+}

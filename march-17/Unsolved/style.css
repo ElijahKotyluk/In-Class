@@ -1,0 +1,22 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+h1 {
+    font-family: 'Skranji', cursive;
+    text-shadow: 2px 2px #FF0000;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    text-shadow: 2px 2px #000000;
+}
+
+h3, h4 {
+    font-family: 'Shadows Into Light', cursive;
+    color: teal;
+    text-shadow: 1px 1px #000000;
+}
